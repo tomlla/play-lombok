@@ -52,7 +52,10 @@ Download lombok.jar from [Project Lombok](http://projectlombok.org/)
 - Eclipse > Preferences > Java > Installed JREs
 - Select JRE and Edit
 - Default VM arguments
- - -javaagent:/Applications/eclipse/Eclipse.app/Contents/MacOS/lombok.jar -Xbootclasspath/a:/Applications/eclipse/Eclipse.app/Contents/MacOS/lombok.jar -Xbootclasspath/a:/Applications/eclipse/plugins/org.eclipse.jdt.core_3.10.0.v20140902-0626.jar
+
+```
+-javaagent:/Applications/eclipseLuna/Eclipse.app/Contents/MacOS/lombok.jar
+```
 
 
 
